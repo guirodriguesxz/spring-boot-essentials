@@ -17,6 +17,8 @@ Uma vez que o projeto esteja rodando localmente, você pode acessar a interface 
 
 http://localhost:8080/swagger-ui/index.html
 
+
+
 🚀 Como rodar o projeto
 Clone o repositório:
 
@@ -30,6 +32,7 @@ Execute o projeto usando o Maven:
 
 Bash
 ./mvnw spring-boot:run
+
 📂 Estrutura de Pacotes
 controller: Camada de exposição dos endpoints REST.
 
