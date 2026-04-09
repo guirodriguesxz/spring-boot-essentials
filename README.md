@@ -1,4 +1,6 @@
 Spring Boot Essentials 🚀
+
+
 Este projeto é uma API REST desenvolvida com Spring Boot para gerenciar um catálogo de produtos. Ele serve como uma base sólida para demonstrar boas práticas de desenvolvimento, tratamento de exceções e documentação automática de APIs.
 
 🛠️ Tecnologias Utilizadas
